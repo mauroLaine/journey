@@ -12,10 +12,10 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'About'
-      url: '/about'
+    # - title: 'Projects'
+    #   url: '/projects/'
+    # - title: 'About'
+    #   url: '/about'
     - title: 'Contact'
       url: '/contact'
 
@@ -23,7 +23,7 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://getform.io/f/bb48dc0c-85ee-4d3c-8820-cf0914a34e3d'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
