@@ -41,6 +41,8 @@ defaults:
 
 markdown: kramdown
 
+timezone: America/Los_Angeles
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
