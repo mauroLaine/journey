@@ -1,7 +1,7 @@
 ---
 title: 'Olympic National Park'
 date: 2021-10-23 00:00:00
-featured_image: '/images/olympic/P1013523.jpg'
+featured_image: '/images/olympic/P1013523.JPG'
 excerpt: This page shows some of the delightful viewpoints of this reservation.
 ---
 
@@ -18,9 +18,9 @@ It was so beautiful and everything that I expected. And, this post shows some of
 Here’s a nice collection of pictures from different viewpoints:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/olympic/GOPR4327.jpg">
-	<img src="/images/olympic/GOPR4367.jpg">
-	<img src="/images/olympic/P1013552.jpg">
+	<img src="/images/olympic/GOPR4327.JPG">
+	<img src="/images/olympic/GOPR4367.JPG">
+	<img src="/images/olympic/P1013552.JPG">
 </div>
 
 ---
@@ -30,7 +30,7 @@ Here’s a nice collection of pictures from different viewpoints:
 When coming down from the Hurricane Ridge area, I had the chance to take close pictures of some deers who were next to road.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/olympic/P1013581.jpg">
-	<img src="/images/olympic/P1013566.jpg">
-	<img src="/images/olympic/P1013582.jpg">
+	<img src="/images/olympic/P1013581.JPG">
+	<img src="/images/olympic/P1013566.JPG">
+	<img src="/images/olympic/P1013582.JPG">
 </div>
