@@ -5,7 +5,7 @@ featured_image: '/images/olympic/P1013523.JPG'
 excerpt: This page shows some of the delightful viewpoints of this reservation.
 ---
 
-![](/images/olympic/P1013523.jpg)
+![](/images/olympic/P1013523.JPG)
 
 ## Overview
 
