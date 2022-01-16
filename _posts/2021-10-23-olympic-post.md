@@ -1,6 +1,6 @@
 ---
 title: 'Olympic National Park'
-date: 2021-10-23 00:00:00
+date: 2021-10-23 12:00:00
 featured_image: '/images/olympic/P1013523.JPG'
 excerpt: This page shows some of the delightful viewpoints of this reservation.
 ---
@@ -17,7 +17,7 @@ It was so beautiful and everything that I expected. And, this post shows some of
 
 Here’s a nice collection of pictures from different viewpoints:
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/olympic/GOPR4327.JPG">
 	<img src="/images/olympic/GOPR4367.JPG">
 	<img src="/images/olympic/P1013552.JPG">
